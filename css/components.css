@@ -70,30 +70,31 @@ section{
    width: 100%;
    margin-top: 1rem;
    border-radius: .5rem;
-   color:var(--white);
+   color:white;
    font-size: 2rem;
    padding:1.3rem 3rem;
-   text-transform: capitalize;
    cursor: pointer;
    text-align: center;
+   transition: 0.7s;
 }
 
 .btn{
-   background-color: var(--green);
+   background-color: Orange;
 }
 
 .delete-btn{
-   background-color: var(--red);
+   background-color: red;
 }
 
 .option-btn{
-   background-color: var(--orange);
+   background-color: green;
 }
 
 .btn:hover,
 .delete-btn:hover,
 .option-btn:hover{
-   background-color: var(--black);
+   background-color: black;
+   color: white;
 }
 
 .flex-btn{
@@ -170,17 +171,17 @@ section{
 
 .form-container form{
    width: 50rem;
-   background-color: var(--white);
-   border-radius: .5rem;
+   background-color:white;
+   border-radius:10px;
    box-shadow: var(--box-shadow);
-   border:var(--border);
+   border:2px solid blue;
    text-align: center;
-   padding:2rem;
+   padding:20px;
 }
 
 .form-container form h3{
-   font-size: 3rem;
-   color:var(--black);
+   font-size: 20px;
+   color:black;
    margin-bottom: 1rem;
    text-transform: uppercase;
 }
@@ -188,22 +189,22 @@ section{
 .form-container form .box{
    width: 100%;
    margin:1rem 0;
-   border-radius: .5rem;
-   border:var(--border);
-   padding:1.2rem 1.4rem;
-   font-size: 1.8rem;
-   color:var(--black);
+   border-radius: 10px;
+   border:2px solid black;
+   padding:20px 25px;
+   font-size: 15px;
+   color:black;
    background-color: var(--light-bg);
 }
 
 .form-container form p{
    margin-top: 2rem;
-   font-size: 2.2rem;
+   font-size: 16px;
    color:var(--light-color);
 }
 
 .form-container form p a{
-   color:var(--green);
+   color:blue;
 }
 
 .form-container form p a:hover{
