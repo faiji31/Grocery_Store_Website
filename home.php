@@ -103,7 +103,7 @@ if(isset($_POST['add_to_cart'])){
          <span>Don't panic, Go organice</span>
          <h3>Reach For A Healthier You With Organic Foods</h3>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto natus culpa officia quasi, accusantium explicabo?</p>
-         <a href="about.php" class="btn">about us</a>
+         <a href="about.php" class="btn">About us</a>
       </div>
 
    </section>
@@ -112,36 +112,36 @@ if(isset($_POST['add_to_cart'])){
 
 <section class="home-category">
 
-   <h1 class="title">shop by category</h1>
+   <h1 class="title">Shop by category</h1>
 
    <div class="box-container">
 
       <div class="box">
          <img src="images/cat-1.png" alt="">
-         <h3>fruits</h3>
+         <h3>Fruits</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=fruits" class="btn">fruits</a>
+         <a href="category.php?category=fruits" class="btn">Fruits</a>
       </div>
 
       <div class="box">
          <img src="images/cat-2.png" alt="">
-         <h3>meat</h3>
+         <h3>Meat</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=meat" class="btn">meat</a>
+         <a href="category.php?category=meat" class="btn">Meat</a>
       </div>
 
       <div class="box">
          <img src="images/cat-3.png" alt="">
-         <h3>vegitables</h3>
+         <h3>Vegitables</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=vegitables" class="btn">vegitables</a>
+         <a href="category.php?category=vegitables" class="btn">Vegitables</a>
       </div>
 
       <div class="box">
          <img src="images/cat-4.png" alt="">
-         <h3>fish</h3>
+         <h3>Fish</h3>
          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat.</p>
-         <a href="category.php?category=fish" class="btn">fish</a>
+         <a href="category.php?category=fish" class="btn">Fish</a>
       </div>
 
    </div>
@@ -150,7 +150,7 @@ if(isset($_POST['add_to_cart'])){
 
 <section class="products">
 
-   <h1 class="title">latest products</h1>
+   <h1 class="title">Latest products</h1>
 
    <div class="box-container">
 
